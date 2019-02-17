@@ -1,0 +1,14 @@
+The connection to bot from mobile app is very easy.
+Following are the steps to connect : 
+1) Power on the Nodemcu with onboard Intex Power bank.
+2) Now connect to wifi Access point "Nodemcu".
+3) It will automatically open a HTML viewer(simply a webpage).
+4) If HTML viewer is not opened then open your browser and connect to ip address : 192.168.4.1
+5) Now choose 1st option  "Configure WiFi"
+6) Click the Access point of your choice and then enter the password.
+7) Hurray!!
+    You are connected to choosen wifi and credentials are saved in flash memory next time there is  no need go throught all this step for same wifi access point.
+8) If not connect Reset the Nodemcu with reset button on Nodemcu(It has a button with name Reset) repeat the above steps.
+9) Now the Ip address of bot will be shown on the lcd.
+10) Open Mobile App and type in the shown ip address and control your bot as you want.
+
